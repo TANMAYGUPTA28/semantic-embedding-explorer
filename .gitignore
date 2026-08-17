@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# Backend local learning files (ignored on GitHub for Frontend Dev profile)
+server/
+server
+.env
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
